@@ -1,8 +1,8 @@
-Sistema de Gerenciamento de Livraria
+# Sistema de Gerenciamento de Livraria
 
-Este é um sistema simples para gerenciar uma livraria. O sistema permite adicionar livros, visualizar uma tabela com todos os livros cadastrados, visualizar detalhes de um livro específico, remover livros e obter informações sobre o programa.
+Este é um sistema voltado para a administração de uma livraria. Com ele, é possível cadastrar novos livros, consultar uma lista completa dos títulos registrados, verificar detalhes de um livro em particular, excluir livros e acessar informações sobre o próprio programa.
 
-Funcionalidades:
+# Funcionalidades:
 
 1.Adicionar Livro: Permite adicionar um livro à lista com o nome, autor e ano de publicação.
 2.Mostrar Tabela de Livros: Exibe uma tabela com todos os livros cadastrados, mostrando o nome, autor e ano de publicação.
